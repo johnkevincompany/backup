@@ -1,0 +1,1513 @@
+1611695708776	geckodriver	INFO	Listening on 127.0.0.1:49458
+1611695711803	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileQjpco9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611695717033	Marionette	INFO	Listening on port 49466
+1611695717162	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611695759192	geckodriver	INFO	Listening on 127.0.0.1:49531
+1611695762258	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileUw2tRj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611695767069	Marionette	INFO	Listening on port 49539
+1611695767586	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 7632, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611695799217	Marionette	INFO	Stopped listening on port 49539
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611698092851	geckodriver	INFO	Listening on 127.0.0.1:55391
+1611698095853	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilevV3Lcq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611698102687	Marionette	INFO	Listening on port 55399
+1611698102831	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+[Parent 1152, IPC I/O Parent] WARNING: file /builds/worker/c1611698217688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileCKldAv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611698222154	Marionette	INFO	Listening on port 55489
+1611698222533	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4220, IPC I/O Parent] WARNING: file /builds/worker/c1611698340905	mozrunner::runner	INFO	Running command: "C:\\Pro1611698340934	Marionette	INFO	Stopped listening on port 55489
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+kNh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611698346232	Marionette	INFO	Listening on port 55596
+1611698346773	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 168, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611698416950	Marionette	INFO	Stopped listening on port 55596
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JsK7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611698421151	Marionette	INFO	Listening on port 55721
+1611698421336	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6192, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611698624945	Marionette	INFO	Stopped listening on port 55721
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611701498788	geckodriver	INFO	Listening on 127.0.0.1:56836
+1611701501859	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilesXdOm1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611701511782	Marionette	INFO	Listening on port 56845
+1611701512093	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6492, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 4: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 9: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 10: ReferenceError: requireLazy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+1611701555056	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/SDXic7q7Qv6.js?_nc_x=Ij3Wp8lg5Kz, line 166: Script terminated by timeout at:
+ea@https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/SDXic7q7Qv6.js?_nc_x=Ij3Wp8lg5Kz:166:10090
+enableBootload@https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/SDXic7q7Qv6.js?_nc_x=Ij3Wp8lg5Kz:166:13937
+handlePayload@https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/SDXic7q7Qv6.js?_nc_x=Ij3Wp8lg5Kz:166:13810
+@https://help.instagram.com/861508690592298:13:2255
+applyWithGuard@https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/SDXic7q7Qv6.js?_nc_x=Ij3Wp8lg5Kz:68:632
+d@https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/SDXic7q7Qv6.js?_nc_x=Ij3Wp8lg5Kz:282:2252
+A@https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/SDXic7q7Qv6.js?_nc_x=Ij3Wp8lg5Kz:41:2268
+applyWithGuard@https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/SDXic7q7Qv6.js?_nc_x=Ij3Wp8lg5Kz:68:632
+A@https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/SDXic7q7Qv6.js?_nc_x=Ij3Wp8lg5Kz:41:1455
+y@https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/SDXic7q7Qv6.js?_nc_x=Ij3Wp8lg5Kz:41:1295
+H/<@https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/SDXic7q7Qv6.js?_nc_x=Ij3Wp8lg5Kz:41:4055
+H@https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/SDXic7q7Qv6.js?_nc_x=Ij3Wp8lg5Kz:41:4078
+L@https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/SDXic7q7Qv6.js?_nc_x=Ij3Wp8lg5Kz:41:4818
+@https://help.instagram.com/861508690592298:13:2225
+
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 2854: TypeError: event.target.closest is not a function
+1611701681557	Marionette	INFO	Stopped listening on port 56845
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611701767481	geckodriver	INFO	Listening on 127.0.0.1:56972
+1611701770452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileUTQOyL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611701776494	Marionette	INFO	Listening on port 56980
+1611701776822	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/psm/RemoteSecuritySettings.jsm, line 789: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.reportError]
+[Parent 11340, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611702370131	Marionette	INFO	Stopped listening on port 56980
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611702480444	geckodriver	INFO	Listening on 127.0.0.1:57191
+1611702483404	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile52FBmT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611702489341	Marionette	INFO	Listening on port 57200
+1611702489774	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/2438b5000665.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1186"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1186:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:631:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:740:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1186, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: can't access property "last" of undefined
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1285:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1510:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1233:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:634:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:740:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1285, column: 1
+console.error: (new TypeError("can't access property \"last\" of undefined", "resource://devtools/server/actors/network-monitor/network-observer.js", 1285))
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: can't access property "selectorText", rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: can't access property "selectorText", rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: can't access property "selectorText", rule is undefined
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+1611702850070	Marionette	INFO	Stopped listening on port 57200
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+p\\rust_mozprofileC5Qem9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611702854917	Marionette	INFO	Listening on port 57326
+1611702855419	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12672, IPC I/O Parent] WARNING: file /builds/worker/1611702935166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileefXU6j"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611702939717	Marionette	INFO	Listening on port 57434
+1611702939999	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9144, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611703073838	Marionette	INFO	Stopped listening on port 57434
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611713839329	geckodriver	INFO	Listening on 127.0.0.1:57280
+1611713842257	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileto1EkT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611713851567	Marionette	INFO	Listening on port 57289
+1611713851878	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("can't access property \"treeChildren\", parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: can't access property "treeChildren", parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new TypeError("can't access property \"getFront\", container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2305))
+console.error: (new TypeError("can't access property \"getFront\", container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2305))
+[Parent 9868, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611714338920	Marionette	INFO	Stopped listening on port 57289
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611714341910	Marionette	INFO	Listening on port 57447
+1611714342036	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11352, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611714475254	Marionette	INFO	Stopped listening on port 57447
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+sg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611714455437	Marionette	INFO	Listening on port 57556
+1611714455556	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+[Parent 14156, IPC I/O Parent] WARNING: file /builds/worker/1611714583292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile9AuLH2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611714588081	Marionette	INFO	Listening on port 57658
+1611714588616	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611714849180	Marionette	INFO	Stopped listening on port 57658
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+efox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile2vHNxx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611714833424	Marionette	INFO	Listening on port 57828
+1611714833612	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/psm/RemoteSecuritySettings.jsm, line 789: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.reportError]
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: can't access property "requestIdleCallback", this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+[Parent 7016, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611715267563	Marionette	INFO	Stopped listening on port 57828
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+NwZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611715271167	Marionette	INFO	Listening on port 58052
+1611715271614	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6364, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611715372154	Marionette	INFO	Stopped listening on port 58052
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+OW7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611715324588	Marionette	INFO	Listening on port 58167
+1611715324939	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13056, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611715490297	Marionette	INFO	Stopped listening on port 58167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+AA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611715489073	Marionette	INFO	Listening on port 58286
+1611715489509	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12912, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611715662918	Marionette	INFO	Stopped listening on port 58286
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+mw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611715613273	Marionette	INFO	Listening on port 58397
+1611715613351	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11596, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611715726711	Marionette	INFO	Stopped listening on port 58397
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Kp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611715696343	Marionette	INFO	Listening on port 58511
+1611715696833	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 14244, IPC I/O Parent] WARNING: file /builds/worker/1611715825963	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileYRuWjN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611715830811	Marionette	INFO	Listening on port 58619
+1611715831283	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611715963776	Marionette	INFO	Stopped listening on port 58619
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+efox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile8O7Ttu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611715952777	Marionette	INFO	Listening on port 58723
+1611715953123	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+[Parent 2148, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 2148, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611716142513	Marionette	INFO	Stopped listening on port 58723
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+IKG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611716138190	Marionette	INFO	Listening on port 58827
+1611716138346	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_NETWORK: Network failure.
+[Parent 12712, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611716228862	Marionette	INFO	Stopped listening on port 58827
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+wn module)"))
+1611716224085	Marionette	INFO	Listening on port 58920
+1611716224199	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/2438b5000665.js, line 32: cancelled: operation is cancelled
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/2438b5000665.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: main/message-groups sync interrupted by shutdown
+console.warn: services.settings: main/search-default-override-allowlist sync interrupted by shutdown
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.warn: services.settings: main/public-suffix-list sync interrupted[Parent 7496, IPC I/O Parent] WARNING: file /builds/worker/c1611716618779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileE93LD0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611716623346	Marionette	INFO	Listening on port 59125
+1611716623605	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 2452, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611717003986	Marionette	INFO	Stopped listening on port 59125
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+cux"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611716993557	Marionette	INFO	Listening on port 59284
+1611716994079	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: can't access property "requestIdleCallback", this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+[Parent 5660, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611717283541	Marionette	INFO	Stopped listening on port 59284
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+OW0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611717277861	Marionette	INFO	Listening on port 59441
+1611717278075	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 2724, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611717487455	Marionette	INFO	Stopped listening on port 59441
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+q6W"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611717473376	Marionette	INFO	Listening on port 59571
+1611717473838	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+[Parent 12612, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611717580836	Marionette	INFO	Stopped listening on port 59571
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Te"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611717584745	Marionette	INFO	Listening on port 59684
+1611717585185	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: can't access property "requestIdleCallback", this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+[Parent 9276, IPC I/O Parent] WARNING: file /builds/worker/c1611717725533	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilenXLJCI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611717730098	Marionette	INFO	Listening on port 59796
+1611717730359	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611718526266	Marionette	INFO	Stopped listening on port 59796
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+efox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilebA2xsG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611718526893	Marionette	INFO	Listening on port 60016
+1611718527331	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13712, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 13712, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611719108932	Marionette	INFO	Stopped listening on port 60016
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611749269195	geckodriver	INFO	Listening on 127.0.0.1:59956
+1611749272194	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile8pluXe"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611749280121	Marionette	INFO	Listening on port 59964
+1611749280258	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6600, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611749494063	Marionette	INFO	Stopped listening on port 59964
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+uQ2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611749412889	Marionette	INFO	Listening on port 60085
+1611749413367	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: can't access property "requestIdleCallback", this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+1611749668465	Marionette	INFO	Stopped listening on port 60085
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+p\\rust_mozprofileJD7UId"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611749657482	Marionette	INFO	Listening on port 60246
+1611749657999	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9096, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611749805014	Marionette	INFO	Stopped listening on port 60246
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+mK7"
+JavaScript error: resource://activity-stream/lib/ASRouterNewTabHook.jsm, line 61: TypeError: can't access property "uninit", this._router is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to remove
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to remove
+1611749809010	geckodriver	INFO	Listening on 127.0.0.1:60388
+1611749812005	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile1S1O79"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611749817233	Marionette	INFO	Listening on port 60399
+1611749817330	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611749926122	Marionette	INFO	Stopped listening on port 60391611749928620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilePwITEc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611749933767	Marionette	INFO	Listening on port 60512
+1611749933943	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611750083316	Marionette	INFO	Stopped listening on port 60512
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+p\\rust_mozprofilecjQVLF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611750086993	Marionette	INFO	Listening on port 60635
+1611750087205	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611750141412	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1611750168418	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1611750197834	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+[Parent 13448, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611750214451	Marionette	INFO	Stopped listening on port 60635
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+##console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611750218697	Marionette	INFO	Listening on port 60756
+1611750219195	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6052, IPC I/O Parent] WARNING: file /builds/worker/c1611750408227	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileWi07wL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611750413586	Marionette	INFO	Listening on port 60892
+1611750414067	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/2438b5000665.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:�Y��
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/2438b5000665.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:�Y��
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 10760, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611750651359	Marionette	INFO	Stopped listening on port 60892
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+xp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611750629311	Marionette	INFO	Listening on port 61057
+1611750629651	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4540, IPC I/O Parent] WARNING: file /builds/worker/c1611750903407	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileNZoIvl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611750908445	Marionette	INFO	Listening on port 61221
+1611750908773	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611750917816	Marionette	INFO	Stopped listening on port 61221611750918617	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilebv8bXY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611750923880	Marionette	INFO	Listening on port 61297
+1611750923978	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8128, IPC I/O Parent] WARNING: file /builds/worker/c1611751044057	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilebsqadW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611751048972	Marionette	INFO	Listening on port 61401
+1611751049390	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6944, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611751248342	Marionette	INFO	Stopped listening on port 61401
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+pIY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611751230786	Marionette	INFO	Listening on port 61545
+1611751230859	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5768, IPC I/O Parent] WARNING: file /builds/worker/c1611751322600	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileN2KQRf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611751327859	Marionette	INFO	Listening on port 61646
+1611751327944	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9016, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611751440693	Marionette	INFO	Stopped listening on port 61646
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+HO0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611751439520	Marionette	INFO	Listening on port 61757
+1611751439735	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9868, IPC I/O Parent] WARNING: file /builds/worker/c1611751487736	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileVaKi4t"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611751492290	Marionette	INFO	Listening on port 61849
+1611751492554	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11160, IPC I/O Parent] WARNING: file /builds/worker/1611751616883	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilerWyYpN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611751622263	Marionette	INFO	Listening on port 61948
+1611751622726	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 32, IPC I/O Parent] WARNING: file /builds/worker/che1611751663986	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileKQgQkn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611751668885	Marionette	INFO	Listening on port 62044
+1611751669310	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6704, IPC I/O Parent] WARNING: file /builds/worker/c1611751832716	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile5q6rcl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611751837123	Marionette	INFO	Listening on port 62160
+1611751837544	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611751874318	Marionette	INFO	Stopped listening on port 62160
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+efox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileJHZvPk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611751869720	Marionette	INFO	Listening on port 62254
+1611751870026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611752067137	Marionette	INFO	Stopped listening on port 62254
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+efox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileG1K5Nz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611752057006	Marionette	INFO	Listening on port 62367
+1611752057220	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611752265572	Marionette	INFO	Stopped listening on port 62367
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+efox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilevlF38n"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611752246779	Marionette	INFO	Listening on port 62503
+1611752247121	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5028, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611752321150	Marionette	INFO	Stopped listening on port 62503
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+own module)"))
+1611752319035	Marionette	INFO	Listening on port 62601
+1611752319361	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13052, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611752368151	Marionette	INFO	Stopped listening on port 62601
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+##console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611752371621	Marionette	INFO	Listening on port 62695
+1611752371998	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/CrashManager.jsm, l1611752426339	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileRMifgb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611752431087	Marionette	INFO	Listening on port 62799
+1611752431178	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12696, IPC I/O Parent] WARNING: file /builds/worker/1611752581055	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilehwe557"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611752585901	Marionette	INFO	Listening on port 62909
+1611752586406	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: can't access property "requestIdleCallback", this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+1611752761477	Marionette	INFO	Stopped listening on port 62901611752763591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileN3VeOG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611752768511	Marionette	INFO	Listening on port 63019
+1611752768929	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/2438b5000665.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:�-
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/2438b5000665.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:�-
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 15136, IPC I/O Parent] WARNING: file /builds/worker/1611752806392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilePAzFNM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611752811724	Marionette	INFO	Listening on port 63114
+1611752812248	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10000, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611752954837	Marionette	INFO	Stopped listening on port 63114
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+##console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611752957968	Marionette	INFO	Listening on port 63233
+1611752958033	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: can't access property "requestIdleCallback", this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611753092496	Marionette	INFO	Stopped listening on port 63233
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+p\\rust_mozprofileHYBDnq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611753076257	Marionette	INFO	Listening on port 63336
+1611753076626	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: can't access property "requestIdleCallback", this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+[Parent 11552, IPC I/O Parent] WARNING: file /builds/worker/1611753244874	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileSFmuIo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611753250276	Marionette	INFO	Listening on port 63464
+1611753250753	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11848, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/2438b5000665.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/2438b5000665.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: can't access property "requestIdleCallback", this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+[Parent 11848, IPC I/O Parent] WARNING: file /builds/worker/1611753353118	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile4akdX6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611753359089	Marionette	INFO	Listening on port 63579
+1611753359480	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611753376384	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: can't access property "requestIdleCallback", this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+[Parent 10468, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611753572536	Marionette	INFO	Stopped listening on port 63579
+1611753577658	geckodriver	INFO	Listening on 127.0.0.1:63697
+1611753580660	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileJojZlv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611753585596	Marionette	INFO	Listening on port 63707
+1611753585992	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: can't access property "requestIdleCallback", this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+[Parent 13388, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611754029170	Marionette	INFO	Stopped listening on port 63707
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+dn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611753954120	Marionette	INFO	Listening on port 63842
+1611753954418	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10012, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611754028048	Marionette	INFO	Stopped listening on port 63842
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611754032716	geckodriver	INFO	Listening on 127.0.0.1:63937
+1611754035715	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilemeVteE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611754041103	Marionette	INFO	Listening on port 63945
+1611754041585	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611754176534	Marionette	INFO	Stopped listening on port 63945
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+efox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile1d6h9o"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611754180753	Marionette	INFO	Listening on port 64070
+1611754181219	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/2438b5000665.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:��E'
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/2438b5000665.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:��E'
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/2438b5000665.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:
+�&N
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/2438b5000665.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:
+�&N
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/modules/psm/RemoteSecuritySettings.jsm, line 789: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.reportError]
+[Parent 2516, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611754602855	Marionette	INFO	Stopped listening on port 64070
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611754606977	Marionette	INFO	Listening on port 64278
+1611754607353	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv,console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611754974681	Marionette	INFO	Listening on port 64498
+1611754975017	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/2438b5000665.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:y��
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/2438b5000665.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:y��
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: resource://gre/modules/psm/RemoteSecuritySettings.jsm, line 789: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.reportError]
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/2438b5000665.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/2438b5000665.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/2438b5000665.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:-���
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/2438b5000665.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:-���
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: can't access property "requestIdleCallback", this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+1611755498635	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1611755513698	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1611755520054	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+[Parent 12456, IPC I/O Parent] WARNING: file /builds/worker/1611755652844	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilehSWzY7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611755657808	Marionette	INFO	Listening on port 64837
+1611755658209	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+[Parent 10256, IPC I/O Parent] WARNING: file /builds/worker/1611755852877	mozrunner::runner	INFO	Running command: "C:\\Prog1611755853199	Marionette	INFO	Stopped listening on port 64837
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+##console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611755857899	Marionette	INFO	Listening on port 65022
+1611755858229	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/2438b5000665.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: can't access property "requestIdleCallback", this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: resource://gre/modules/psm/RemoteSecuritySettings.jsm, line 789: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.reportError]
+1611756271532	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1611756287265	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1611756293801	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+[Parent 13284, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611759752670	Marionette	INFO	Stopped listening on port 65022
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611760546481	geckodriver	INFO	Listening on 127.0.0.1:49572
+1611760549496	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile9tFOyB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611760554755	Marionette	INFO	Listening on port 49582
+1611760554821	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+[Parent 14676, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611760693286	Marionette	INFO	Stopped listening on port 49582
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+j8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611760666728	Marionette	INFO	Listening on port 49691
+1611760666870	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: can't access property "requestIdleCallback", this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+[Parent 14640, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611760972090	Marionette	INFO	Stopped listening on port 49691
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+eK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611760962641	Marionette	INFO	Listening on port 49876
+1611760962743	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: resource://gre/modules/psm/RemoteSecuritySettings.jsm, line 789: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.reportError]
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: can't access property "requestIdleCallback", this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+1611761455276	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1611761467606	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1611761475278	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+[Parent 2436, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611762312658	Marionette	INFO	Stopped listening on port 49876
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+own module)"))
+1611762269570	Marionette	INFO	Listening on port 50308
+1611762269918	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/2438b5000665.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:A0�
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/2438b5000665.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:A0�
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/7812cfad58f5.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/d6a753255f71.js, line 76: AjaxError: 
+[Parent 9024, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611762506015	Marionette	INFO	Stopped listening on port 50308
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611782891747	geckodriver	INFO	Listening on 127.0.0.1:59677
+1611782894732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilerLyUSQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611782902853	Marionette	INFO	Listening on port 59690
+1611782903247	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: can't access property "requestIdleCallback", this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+[Parent 12548, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611783035321	Marionette	INFO	Stopped listening on port 59690
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+HD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611783028309	Marionette	INFO	Listening on port 59806
+1611783028683	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/43686b0d58d7.js, line 1308: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/43686b0d58d7.js, line 1308: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 8504, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611783645121	Marionette	INFO	Stopped listening on port 59806
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+own module)"))
+1611783645743	Marionette	INFO	Listening on port 59990
+1611783645856	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|510-DqpHv3L.js,11HZwqTrxmL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014VApivrFL.js,21NNXfMitSL.js,11GXfd3+z+L.js,513Ys2IkKiL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51A3Le4wx8L.js,3139553HcbL.js,015c-6CIP9L.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,016o2mNzRuL.js_.js?AUIClients/AmazonUI&tbOQM7bq#309035-T1, line 162: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|510-DqpHv3L.js,11HZwqTrxmL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014VApivrFL.js,21NNXfMitSL.js,11GXfd3+z+L.js,513Ys2IkKiL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51A3Le4wx8L.js,3139553HcbL.js,015c-6CIP9L.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,016o2mNzRuL.js_.js?AUIClients/AmazonUI&tbOQM7bq#309035-T1, line 162: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|510-DqpHv3L.js,11HZwqTrxmL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014VApivrFL.js,21NNXfMitSL.js,11GXfd3+z+L.js,513Ys2IkKiL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51A3Le4wx8L.js,3139553HcbL.js,015c-6CIP9L.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,016o2mNzRuL.js_.js?AUIClients/AmazonUI&tbOQM7bq#309035-T1, line 162: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|510-DqpHv3L.js,11HZwqTrxmL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014VApivrFL.js,21NNXfMitSL.js,11GXfd3+z+L.js,513Ys2IkKiL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51A3Le4wx8L.js,3139553HcbL.js,015c-6CIP9L.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,016o2mNzRuL.js_.js?AUIClients/AmazonUI&tbOQM7bq#309035-T1, line 162: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+JavaScript error: resource://gre/modules/psm/RemoteSecuritySettings.jsm, line 789: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.reportError]
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/2c9b6a0b8003.js, line 76: AjaxError: 
+1611784076843	Marionette	INFO	Stopped listening on port 59990
+1611838713006	geckodriver	INFO	Listening on 127.0.0.1:58045
+1611838716063	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile5e7prG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611838724367	Marionette	INFO	Listening on port 58055
+1611838724574	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/psm/RemoteSecuritySettings.jsm, line 789: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.reportError]
+[Parent 13424, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611839387639	Marionette	INFO	Stopped listening on port 58055
+1611839390399	geckodriver	INFO	Listening on 127.0.0.1:58245
+1611839393479	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileSmDjoN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611839398047	Marionette	INFO	Listening on port 58254
+1611839398310	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1611839457260	Marionette	INFO	Stopped listening on port 58254
+1839456260	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile6ZzNGT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611839460898	Marionette	INFO	Listening on port 58363
+1611839461090	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8040, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611839527218	Marionette	INFO	Stopped listening on port 58363
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+vit"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611839530149	Marionette	INFO	Listening on port 58487
+1611839530409	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/psm/RemoteSecuritySettings.jsm, line 789: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.reportError]
+1611840244631	Marionette	INFO	Stopped listening on port 58487
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+p\\rust_mozprofile8ZAcsw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611840243250	Marionette	INFO	Listening on port 58717
+1611840243418	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12284, IPC I/O Parent] WARNING: file /builds/worker/1611840308145	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileS0Bzsy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611840312667	Marionette	INFO	Listening on port 58832
+1611840312979	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/psm/RemoteSecuritySettings.jsm, line 789: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.reportError]
+[Parent 892, IPC I/O Parent] WARNING: file /builds/worker/ch1611841439677	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileI2G7GI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611841444351	Marionette	INFO	Listening on port 59065
+1611841444520	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5200, IPC I/O Parent] WARNING: file /builds/worker/c1611841756405	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile0gY4YR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611841761381	Marionette	INFO	Listening on port 59296
+1611841761743	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5840, IPC I/O Parent] WARNING: file /builds/worker/c1611841843576	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionet
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+UjO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611841848013	Marionette	INFO	Listening on port 59413
+1611841848390	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12516, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611842580696	Marionette	INFO	Stopped listening on port 59413
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+oU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611842583180	Marionette	INFO	Listening on port 59720
+1611842583230	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 7952, IPC I/O Parent] WARNING: file /builds/worker/c1611842633247	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilewJ2HW4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611842637807	Marionette	INFO	Listening on port 59817
+1611842638072	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4204, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611843930128	Marionette	INFO	Stopped listening on port 59817
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+eSO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611843923657	Marionette	INFO	Listening on port 60151
+1611843923870	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8344, IPC I/O Parent] WARNING: file /builds/worker/c1611844724521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile1JHfs1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611844729285	Marionette	INFO	Listening on port 60355
+1611844729349	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12068, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611845354772	Marionette	INFO	Stopped listening on port 60355
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+##console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611845358924	Marionette	INFO	Listening on port 60545
+1611845359274	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 7700, IPC I/O Parent] WARNING: file /builds/worker/c1611845641107	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileiFCJPa"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611845645571	Marionette	INFO	Listening on port 60697
+1611845645932	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3612, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611845835301	Marionette	INFO	Stopped listening on port 60697
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611845838754	Marionette	INFO	Listening on port 60806
+1611845839218	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11076, IPC I/O Parent] WARNING: file /builds/worker/1611845886605	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileDr89ZW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611845890912	Marionette	INFO	Listening on port 60914
+1611845891463	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 7612, IPC I/O Parent] WARNING: file /builds/worker/c1611846072097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilepFlfzD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611846076680	Marionette	INFO	Listening on port 61029
+1611846076910	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8508, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611846247047	Marionette	INFO	Stopped listening on port 61029
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+knf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611846211405	Marionette	INFO	Listening on port 61119
+1611846211639	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611846403233	geckodriver	INFO	Listening on 127.0.0.1:61195
+1611846406312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilegyoILN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611846410932	Marionette	INFO	Listening on port 61205
+1611846411141	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13040, IPC I/O Parent] WARNING: file /builds/worker/1611846432148	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileXlqPHV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611846436596	Marionette	INFO	Listening on port 61263
+1611846436971	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: security-state/cert-revocations sync interrupted by shutdown
+console.warn: services.settings: main/top-sites sync interrupted by shutdown
+console.warn: services.settings: blocklists/addons-bloomfilters sync interrupted by shutdown
+console.warn: services.settings: main/normandy-recipes-capabilities sync interrupted by shutdown
+[Parent 152, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko[Parent 8000, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611847202184	Marionette	INFO	Stopped listening on port 61367
+, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611847198497	geckodriver	INFO	Listening on 127.0.0.1:61473
+1611847201485	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile7HTlsm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611847206208	Marionette	INFO	Listening on port 61481
+1611847206337	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/psm/RemoteSecuritySettings.jsm, line 789: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.reportError]
+[Parent 11144, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611847624515	Marionette	INFO	Stopped listening on port 61481
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Ff"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611847628732	Marionette	INFO	Listening on port 61592
+1611847629126	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/psm/RemoteSecuritySettings.jsm, line 789: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.reportError]
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+[Parent 2096, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611848081872	Marionette	INFO	Stopped listening on port 61592
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611848104498	geckodriver	INFO	Listening on 127.0.0.1:61767
+1611848107555	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileFHBVNF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611848111991	Marionette	INFO	Listening on port 61775
+1611848112362	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 2556, IPC I/O Parent] WARNING: file /builds/worker/c1611848164982	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilejH3EFz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611848169283	Marionette	INFO	Listening on port 61857
+1611848169339	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11392, IPC I/O Parent] WARNING: file /builds/worker/1611848227320	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileLNxkGB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611848231858	Marionette	INFO	Listening on port 61950
+1611848232158	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 14208, IPC I/O Parent] WARNING: file /builds/worker/1611848307210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilegNnrxL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611848312199	Marionette	INFO	Listening on port 62059
+1611848312555	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 10352, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611848444525	Marionette	INFO	Stopped listening on port 62059
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+##console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611848446876	Marionette	INFO	Listening on port 62167
+1611848447398	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sandbox.prismabox.com.br"
+JavaScript error: resource://gre/modules/psm/RemoteSecuritySettings.jsm, line 789: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.reportError]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sandbox.prismabox.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sandbox.prismabox.com.br"
+[Parent 7848, IPC I/O Parent] WARNING: file /builds/worker/c1611849298301	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileMLp2nb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611849302805	Marionette	INFO	Listening on port 62384
+1611849303112	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3868, IPC I/O Parent] WARNING: file /builds/worker/c1611849371520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilerwfWJp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611849375734	Marionette	INFO	Listening on port 62492
+1611849375838	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5836, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611849417100	Marionette	INFO	Stopped listening on port 62492
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611857951775	geckodriver	INFO	Listening on 127.0.0.1:56811
+1611857954717	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile0ZPz6g"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611857961925	Marionette	INFO	Listening on port 56819
+1611857962219	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/psm/RemoteSecuritySettings.jsm, line 789: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.reportError]
+[Parent 10696, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611860450284	Marionette	INFO	Stopped listening on port 56819
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
